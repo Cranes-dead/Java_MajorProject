@@ -7,7 +7,6 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import com.itextpdf.text.*;
 import com.itextpdf.text.Font;
-import com.itextpdf.text.Image;
 import com.itextpdf.text.pdf.PdfPTable;
 import com.itextpdf.text.pdf.PdfWriter;
 
